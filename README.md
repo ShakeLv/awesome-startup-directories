@@ -32,6 +32,7 @@ If you find this useful, a ⭐ helps others discover it.
 
 ## 🌱 Newer & Niche Startup Directories
 
+- **[AI Tools Radar](https://aitoolsradar.com/)** — Multilingual AI directory with models, skills, prompts and editorial coverage; vendor submission is paid.
 - **[HUNT0](https://hunt0.com)** _(DR 29)_ — Startup directory
 - **[LLM Relevance](https://llmrelevance.com)** _(DR 29)_ — AI tool review directory
 - **[Startup88](https://startup88.com)** _(DR 26, 10K traffic)_ — Startup discovery and pitch platform
